@@ -1,0 +1,44 @@
+.nav .card-img-top{
+    background:linear-gradient(
+        rgba(230, 215, 6, 0.7),
+        rgba(0, 0, 0, 0.7)
+            );
+    background-attachment:fixed;
+    
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+      
+}
+.tab-pane{
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
